@@ -1,0 +1,13 @@
+body {
+  background: #f8f9fa;
+}
+.app-container {
+  min-height: calc(100vh - 140px);
+}
+.card-img-top {
+  object-fit: cover;
+  height: 180px;
+}
+.toggle-dark {
+  cursor: pointer;
+}
